@@ -12,7 +12,7 @@ namespace AlienInvaders
         {
             GameBody.ConsoleSetUp(80, 29);
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("\n In a galaxy far far away, there was a planet called PESHO..\n");
+            Console.WriteLine("\n In a galaxy far far away, there was a planet called PESHO!..\n");
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine(" The people on this planet were living in peace but one day a horrible evil ");
             Console.WriteLine(" creature called GOSHO wanted to destroy the planet, just for fun....\n");
