@@ -37,36 +37,23 @@ namespace BattleInterface
             Player you = new Player(100, 100, 10, 5, 12);
 
             Saber sword1 = new Saber(15, "LightBringer");
-            Saber sword2 = new Saber(12, "LightBringer1");
+            Saber sword2 = new Saber(12, "SwordShatterer");
+            Saber sword3 = new Saber(5, "Basic Attack");
 
             me.AddEquipment(sword1);
             me.AddEquipment(sword2);
 
-            Console.WriteLine(you.EntityStats);
+            you.AddEquipment(sword3);
+
+           
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
 
-            while (true)
-            {
+            Battle.StartBattle(me, you);
 
-
-                var skilltext = me.GetAttacks().Select(o => o.ToString()).ToArray();
-
-                var from = new Form1(you.EntityStats.ToString(), skilltext, "pic.jpg");
-
-                Application.Run(from);
-
-                var r = from.Result;
-
-                me.ChooseAttack(you, r);
-
-                Console.WriteLine(you.EntityStats);
-            }
-
-
-            Console.WriteLine();
+            Battle.Combat();
         }
     }
 }

@@ -18,12 +18,12 @@ namespace BattleInterface
             InitializeComponent();
         }
 
-        public Form1(string text, string[] options, string filepath)
+        public Form1(string stats1,string stats2, string[] options, string filepath)
         {
             InitializeComponent();
 
             this.pictureBox1.Load(filepath);
-            this.label1.Text = text;
+            this.label1.Text = stats1+"\n"+stats2;
 
             foreach (var item in options)
             {

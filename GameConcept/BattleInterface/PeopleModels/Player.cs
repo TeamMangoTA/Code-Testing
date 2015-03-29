@@ -63,32 +63,11 @@ namespace GameConcept.PeopleModels
             resolution.Resolve();
         }
 
-        public void ChooseAttack(Player target, int n)
+        public void DoAttack(Player target, int n)
         {
-
-            //var temp = new AttackAbility();
             int ch = n;
             if (ch < 0) { return; }
-            //List<int> select = new List<int>();
-            //for (int i = 0; i < Skills.Count; i++)
-            //{
-            //    if (Skills[i].GetType()==temp.GetType())
-            //    {
-            //        Console.WriteLine(Skills[i]+"Seleclt: {0}",i);
-            //        select.Add(i);
-            //    }
-
-
-            //}
-            //do
-            //{
-            //    Console.WriteLine("Choose Attack");
-            //    ch = int.Parse(Console.ReadLine());
-            //} while (!select.Exists(o => o == ch));
-
-
             var tempattack = Skills[ch];
-
             this.DoAttack(target, tempattack);
 
         }
