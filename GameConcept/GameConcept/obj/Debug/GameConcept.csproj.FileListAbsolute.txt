@@ -1,0 +1,9 @@
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\obj\Debug\GameConcept.csprojResolveAssemblyReference.cache
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\bin\Debug\GameConcept.pdb
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\obj\Debug\GameConcept.pdb
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\bin\Debug\GameConcept.exe.config
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\bin\Debug\GameConcept.exe
+C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\obj\Debug\GameConcept.exe
+C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\bin\Debug\GameConcept.exe.config
+C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.exe
+C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.pdb

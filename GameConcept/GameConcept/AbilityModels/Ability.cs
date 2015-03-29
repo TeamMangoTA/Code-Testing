@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GameConcept.AbilityModels
+{
+    abstract class Ability
+    {
+        public string Name { get; set; }
+        public virtual string AbilityType
+        {
+            get
+            {
+                return "Non";
+            }
+        }
+    }
+}
