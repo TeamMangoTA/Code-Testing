@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameConcept.AbilityModels.Ability" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>AbilityModels\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.AbilityModels.AttackAbility" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQIAAAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>AbilityModels\AttackAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.ActionModels.DeffensiveA" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActionModels\DeffensiveA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.ActionModels.GameAction" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ActionModels\GameAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.ActionModels.OffensiveA" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActionModels\OffensiveA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.ActionModels.WeaponAttack" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAA=</HashCode>
+      <FileName>ActionModels\WeaponAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConcept.ActionModels.WeaponBlock" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ActionModels\WeaponBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.BattleModels.Battle" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAIAAAQAAAA=</HashCode>
+      <FileName>BattleModels\Battle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleInterface.Form1" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAACAAABAQAACAAAQCAIAIAAAAAEAAAABAACA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleInterface.Program" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.PeopleModels.BadGuy" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>PeopleModels\BadGuy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.PeopleModels.Entity" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>PeopleModels\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.PeopleModels.GoodGuy" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>PeopleModels\GoodGuy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.PeopleModels.Player" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAQEAAAAAAAgAAAAAAAAAQAAAAAIAAAAAAAQAAAAAA=</HashCode>
+      <FileName>PeopleModels\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleInterface.Properties.Resources" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleInterface.Properties.Settings" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.WeaponModels.MeleW" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>WeaponModels\MeleW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.WeaponModels.Musket" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAQAQAAAA=</HashCode>
+      <FileName>WeaponModels\Musket.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConcept.WeaponModels.RangeW" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeaponModels\RangeW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameConcept.WeaponModels.Saber" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAQAQAAAA=</HashCode>
+      <FileName>WeaponModels\Saber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameConcept.WeaponModels.Weapon" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>WeaponModels\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GameConcept.PeopleModels.Stats" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABAAABAAAEAAAAAAAgAAAABAAAIAAAIAAAAAA=</HashCode>
+      <FileName>PeopleModels\Stats.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="GameConcept.Interfaces.IMele" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMele.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameConcept.Interfaces.IOffensive" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAA=</HashCode>
+      <FileName>Interfaces\IOffensive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameConcept.Interfaces.IWeapon" Collapsed="true">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
