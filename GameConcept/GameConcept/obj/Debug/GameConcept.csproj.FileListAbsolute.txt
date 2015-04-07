@@ -7,3 +7,6 @@ C:\Users\ArgiDUX\Desktop\GitHub\SimulationExperiment\GameConcept\GameConcept\obj
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\bin\Debug\GameConcept.exe.config
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.exe
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.pdb
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\GameConcept\bin\Debug\GameConcept.exe.config
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.exe
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\GameConcept\obj\Debug\GameConcept.pdb

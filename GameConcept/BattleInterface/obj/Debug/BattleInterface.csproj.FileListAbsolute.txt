@@ -16,3 +16,6 @@ C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\BattleInterface\obj\Deb
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\BattleInterface\obj\Debug\BattleInterface.Form1.resources
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\BattleInterface\obj\Debug\BattleInterface.Properties.Resources.resources
 C:\Users\ArgiDUX\Desktop\GitHub\Code-Testing\GameConcept\BattleInterface\obj\Debug\BattleInterface.csproj.GenerateResource.Cache
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\BattleInterface\bin\Debug\BattleInterface.exe.config
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\BattleInterface\obj\Debug\BattleInterface.exe
+C:\Users\Nitro\Documents\GitHub\Mango\Code-Testing\GameConcept\BattleInterface\obj\Debug\BattleInterface.pdb
